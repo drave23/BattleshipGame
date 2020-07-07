@@ -20,11 +20,4 @@ you will see a menu:
 3.Statistics
 4.Show board
 5.Quit
-
-
-  
-        
- 
-
-
  
