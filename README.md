@@ -1,14 +1,13 @@
-Battleship Game
+Battleship Game - Simple version of BattleShip game support one player
 
-Simple version of BattleShip game support one player
 
 Instructions:
 
-Download jar file:
-BattleshipGame/target/battleship-1.0.jar
+ Download jar file:
+  BattleshipGame/target/battleship-1.0.jar
 
-open cmd and run:
-java -cp battleship-1.0.jar Main
+ open cmd and run:
+  java -cp battleship-1.0.jar Main
 
 Game steps:
   1.1 Insert board size and place your ships.
