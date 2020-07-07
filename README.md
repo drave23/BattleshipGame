@@ -4,7 +4,7 @@
 ## Instructions:
 
  Download jar file:
-  [battleship-1.0.jar](BattleshipGame/target/"battleship-1.0.jar")
+  [battleship-1.0.jar](https://github.com/drave23/BattleshipGame/blob/battleshipGame/target/battleship-1.0.jar)
 
  Open in cmd the jar file location and run  :
   - java -cp battleship-1.0.jar Main
