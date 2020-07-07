@@ -6,7 +6,7 @@
  Download jar file:
   [battleship-1.0.jar](BattleshipGame/target/battleship-1.0.jar)
 
- Open cmd and run:
+ Open in cmd jar location and run  :
   - java -cp battleship-1.0.jar Main
 
 ## Game steps:
