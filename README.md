@@ -1,5 +1,5 @@
 # Battleship Game
-- Simple version of BattleShip game support one player
+ Simple version of BattleShip game support one player
 
 ## Instructions:
 
