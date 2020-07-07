@@ -80,11 +80,11 @@ public class Game {
     }
 
     private void setMainMenu() {
-        this.mainMenu.add("start a new game");  //1
-        this.mainMenu.add("hit a ship!"); //2
-        this.mainMenu.add("statistics"); //3
-        this.mainMenu.add("show board"); //4
-        this.mainMenu.add("quit"); //5
+        this.mainMenu.add("Start a new game");  //1
+        this.mainMenu.add("Hit a ship!"); //2
+        this.mainMenu.add("Statistics"); //3
+        this.mainMenu.add("Show board"); //4
+        this.mainMenu.add("Quit"); //5
 
     }
 
